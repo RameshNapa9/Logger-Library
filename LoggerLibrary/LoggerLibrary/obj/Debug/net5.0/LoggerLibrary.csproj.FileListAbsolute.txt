@@ -1,0 +1,12 @@
+C:\Ramesh\Projects\LoggerLibrary\LoggerLibrary\bin\Debug\net5.0\LoggerLibrary.deps.json
+C:\Ramesh\Projects\LoggerLibrary\LoggerLibrary\bin\Debug\net5.0\LoggerLibrary.dll
+C:\Ramesh\Projects\LoggerLibrary\LoggerLibrary\bin\Debug\net5.0\ref\LoggerLibrary.dll
+C:\Ramesh\Projects\LoggerLibrary\LoggerLibrary\bin\Debug\net5.0\LoggerLibrary.pdb
+C:\Ramesh\Projects\LoggerLibrary\LoggerLibrary\obj\Debug\net5.0\LoggerLibrary.csprojAssemblyReference.cache
+C:\Ramesh\Projects\LoggerLibrary\LoggerLibrary\obj\Debug\net5.0\LoggerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ramesh\Projects\LoggerLibrary\LoggerLibrary\obj\Debug\net5.0\LoggerLibrary.AssemblyInfoInputs.cache
+C:\Ramesh\Projects\LoggerLibrary\LoggerLibrary\obj\Debug\net5.0\LoggerLibrary.AssemblyInfo.cs
+C:\Ramesh\Projects\LoggerLibrary\LoggerLibrary\obj\Debug\net5.0\LoggerLibrary.csproj.CoreCompileInputs.cache
+C:\Ramesh\Projects\LoggerLibrary\LoggerLibrary\obj\Debug\net5.0\LoggerLibrary.dll
+C:\Ramesh\Projects\LoggerLibrary\LoggerLibrary\obj\Debug\net5.0\ref\LoggerLibrary.dll
+C:\Ramesh\Projects\LoggerLibrary\LoggerLibrary\obj\Debug\net5.0\LoggerLibrary.pdb

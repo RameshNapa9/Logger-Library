@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExampleApp/1.0.0": {
+        "dependencies": {
+          "LoggerLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ExampleApp.dll": {}
+        }
+      },
+      "LoggerLibrary/1.0.0": {
+        "runtime": {
+          "LoggerLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExampleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoggerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
